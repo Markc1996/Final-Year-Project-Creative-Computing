@@ -33,7 +33,7 @@
     "nodemailer": "^6.4.6",
     "request": "^2.88.2",
     "jsonwebtoken": "^8.5.1",
-    "nodebb-plugin-session-sharing": "^4.6.6",
+    "nodebb-plugin-session-sharing": "^7.0.1",
     "nodemailer-smtp-transport": "^2.7.4",
     "request-promise": "^4.2.5",
     "xoauth2": "^1.2.0",
